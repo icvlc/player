@@ -1,0 +1,2 @@
+pyserial==3.4
+gTTS==2.0.4
